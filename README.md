@@ -1,3 +1,5 @@
+#[Click Here for rendered version of HTML file](http://htmlpreview.github.io/?https://github.com/phranzero/RepData_PeerAssessment1/blob/master/PA1_template.html)
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
